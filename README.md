@@ -1,1 +1,1 @@
-# symfony-jwt-auth-php
+# symfony jwt auth php
